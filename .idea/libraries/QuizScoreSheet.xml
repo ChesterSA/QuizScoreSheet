@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="QuizScoreSheet">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/QuizScoreSheet.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
